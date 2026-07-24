@@ -12,7 +12,7 @@ A ready-to-use solution for local infrastructure monitoring using **Docker Compo
 
 ## 🏗 System Architecture
 
-```text
+``` 
 +-------------------------------------------------------------------+
 |                         DOCKER NETWORK                            |
 |                                                                   |
