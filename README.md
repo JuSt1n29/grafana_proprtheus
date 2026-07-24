@@ -12,7 +12,7 @@ A ready-to-use solution for local infrastructure monitoring using **Docker Compo
 
 ## 🏗 System Architecture
 
-``` 
+``` ```
 +-------------------------------------------------------------------+
 |                         DOCKER NETWORK                            |
 |                                                                   |
@@ -126,6 +126,6 @@ docker compose ps
 
 This project is licensed under the MIT License.
 
-
+```
 
 ```
